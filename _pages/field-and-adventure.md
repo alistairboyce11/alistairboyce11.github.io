@@ -25,18 +25,18 @@ The QM-III network (Québec–Maine across three sutures) was formed from a coll
 ### Imperial College Canadian Maritimes Network - 2015
 <br/><img src='/images/Imperial-QMIII.png'>
 
-During the period May 2015 - August 2015 I took part in the servicing and pull in of 10 Seis-Uk Instruments deployed in the Imperial College Canadian Maritimes Network in Nova Scotia/New Brunswick, Eastern Canada. The stations were situated in gardens of local residents, a blueberry farm, a Geological Survey of Canada rock store and a geological museum throughout Nova Scotia and New Brunswick. These data were used to improve coverage in the eastern portions of the tomographic images I constructed during my PhD and Shear wave splitting analyses (Boyce et al., 2016, Gilligan et al., 2016). For more please check out Astronomy and Geophysics article [here](/files/gilligan_2016_aandg_canada.pdf)
+During the period May 2015 - August 2015 I took part in the servicing and pull in of 10 Seis-Uk Instruments deployed in the Imperial College Canadian Maritimes Network in Nova Scotia/New Brunswick, Eastern Canada. The stations were situated in gardens of local residents, a blueberry farm, a Geological Survey of Canada rock store and a geological museum throughout Nova Scotia and New Brunswick. These data were used to improve coverage in the eastern portions of the tomographic images I constructed during my PhD and Shear wave splitting analyses (Boyce et al., 2016, Gilligan et al., 2016). For more please check out our Astronomy and Geophysics article [here](/files/gilligan_2016_aandg_canada.pdf)
 
 
 ## Adventure
 
-My passion outside of seismology is cycling. Below are a few details of past trips. 
+Outwith seismology, my passion is cycling. Below are a few details of past trips. 
 
 ### Home 2 Rome - Summer 2018
 
-In the summer of 2018, after my Phd viva and before starting my Postdoc in Cambridge I rode my bicycle >2,200km from my parents home in Warwickshire, UK to Rome, Italy (only including one or two trains...)
+In the summer of 2018, after my PhD viva and before starting my Postdoc in Cambridge I rode my bicycle >2,200km from my parents home in Warwickshire, UK to Rome, Italy (only including one or two trains...)
 
-For the first leg in France (Caen - Bordeaux), I was joined by good mate Matt. We passed some awesome places, including the Le Mans circuit and plenty of castles.
+For the first leg in France (Caen - Bordeaux), I was joined by good friend Matt. We passed some awesome places, including the Le Mans race circuit and plenty of castles.
 
 <br/><img src='/images/H2R_PT1.gif'>
 
