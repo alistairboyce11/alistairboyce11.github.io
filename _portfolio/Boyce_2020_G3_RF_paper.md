@@ -1,6 +1,6 @@
 ---
 title: "RF Paper Submitted to Gcubed"
-excerpt: "Paper investigating the African Mantle transition zone<br/><img src='/images/CCP_XC_AF_SL.png'>"
+excerpt: "Paper investigating the African Mantle transition zone<br/><img src='/images/CCP_XC_AFRP20_AF2019.png'>"
 collection: portfolio
 date: "2020-10-09"
 ---
