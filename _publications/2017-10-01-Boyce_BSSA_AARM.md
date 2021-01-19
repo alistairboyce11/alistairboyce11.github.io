@@ -9,5 +9,3 @@ citation: 'Boyce, A. Bastow, I.D. Rondenay, S. Van der Hilst, R.D. (2017), From 
 ---
 
 <a href='/files/Boyce_et_al_BSSA_2017.pdf'>Download paper here</a>
-
-Recommended citation: Boyce, A. Bastow, I.D. Rondenay, S. Van der Hilst, R.D. (2017), From Relative to Absolute Teleseismic Travel-times: The Absolute Arrival-time Recovery Method (AARM), Bull. Seis. Soc. Am., 107 (5), 2511–2520. https://doi.org/10.1785/0120170021

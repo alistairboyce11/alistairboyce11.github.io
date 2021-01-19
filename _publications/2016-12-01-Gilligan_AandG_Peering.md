@@ -9,5 +9,3 @@ citation: 'Gilligan, A., Bastow, I.D. Boyce, A. Petrescu, L. Liddell, M.V. Darby
 ---
 
 <a href='/files/gilligan_2016_aandg_canada.pdf'>Download paper here</a>
-
-Recommended citation: Gilligan, A., Bastow, I.D. Boyce, A. Petrescu, L. Liddell, M.V. Darbyshire, F.A. Hawthorne, D.A. Lane, V. Daly, D. Simpson, D. Heffler, D. (2016), Peering beneath the Canadian crust, Astronomy & Geophysics, 57 (6), 6.24–6.27. https://doi.org/10.1093/astrogeo/atw221
