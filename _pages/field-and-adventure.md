@@ -25,7 +25,7 @@ The QM-III network (Québec–Maine across three sutures) was formed from a coll
 ### Imperial College Canadian Maritimes Network - 2015
 <br/><img src='/images/Imperial-QMIII.png'>
 
-During the period May 2015 - August 2015 I took part in the servicing and pull in of 10 Seis-Uk Instruments deployed in the Imperial College Canadian Maritimes Network in Nova Scotia/New Brunswick, Eastern Canada. The stations were situated in gardens of local residents, a blueberry farm, a Geological Survey of Canada rock store and a geological museum throughout Nova Scotia and New Brunswick. These data were used to improve coverage in the eastern portions of the tomographic images I constructed during my PhD and Shear wave splitting analyses (Boyce et al., 2016, Gilligan et al., 2016). For more please check out our Astronomy and Geophysics article [here](/files/gilligan_2016_aandg_canada.pdf)
+During the period May 2015 - August 2015 I took part in the servicing and pull in of 10 Seis-Uk Instruments deployed in the Imperial College Canadian Maritimes Network in Nova Scotia/New Brunswick, Eastern Canada. The stations were situated in gardens of local residents, a blueberry farm, a Geological Survey of Canada rock store and a geological museum throughout Nova Scotia and New Brunswick. These data were used to improve coverage in the eastern portions of the tomographic images I constructed during my PhD and Shear wave splitting analyses ([Boyce et al., 2016](https://doi.org/10.1002/2016JB012838), [Gilligan et al., 2016](https://doi.org/10.1093/gji/ggw207)). For more please check out our Astronomy and Geophysics article [here](/files/gilligan_2016_aandg_canada.pdf)
 
 
 ## Adventure
