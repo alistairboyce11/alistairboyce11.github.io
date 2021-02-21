@@ -5,7 +5,7 @@ collection: portfolio
 date: "2017-09-27"
 ---
 
-In this BSSA paper published in October 2017 I describe the Absolute Arrival-time Recovery Method (AARM). We show that with careful alignment and stacking, often noisy temporary seismograph network data can be exploited to extract absolute arrival time picks including estimates of uncertainty. These valuable data are therefore an untapped resource with which to fill spatial gaps in global absolute-wavespeed tomographic models.
+In this BSSA paper published in October 2017 we describe the Absolute Arrival-time Recovery Method (AARM). We show that with careful alignment and stacking, often noisy temporary seismograph network data can be exploited to extract absolute arrival time picks including estimates of uncertainty. These valuable data are therefore an untapped resource with which to fill spatial gaps in global absolute-wavespeed tomographic models.
 
 * Download the paper [here](/files/Boyce_et_al_BSSA_2017.pdf).
 * Download supplementary material [here](/files/ESUPP-Boyce_et_al_BSSA_2017.pdf).
