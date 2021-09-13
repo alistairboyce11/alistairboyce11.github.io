@@ -3,7 +3,7 @@ title: "Absolute P-wave Tomography and Transition-Zone Receiver Functions Reveal
 collection: talks
 type: "Talk [invited]"
 permalink: /talks/2021-04-12-Leed_Seis
-venue: "Leed Seismology Group"
+venue: "Leeds Seismology Group"
 date: 2021-04-12
 location: "Virtual"
 ---
