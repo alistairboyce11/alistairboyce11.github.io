@@ -17,6 +17,7 @@ redirect_from:
 ## Experience
 
 * 2018-2021: Research Associate, University of Cambridge
+* 2021-Present: CNRS Postdoc, LGL-TPE, Université Claude Bernard, Lyon1
 
 ## Recent Outreach
 * 2019-2020: Deep Earth Explorers exhibit, Sedgwick Museum, Cambridge (Opened Mar. 2020)
@@ -27,7 +28,7 @@ redirect_from:
   * Students processed arrival-time datasets for Canadian-Alaskan imaging project, undertook independent projects, led methodological and tectonic discussion groups, gave final presentations.
 
 ## Service and Leadership
-* 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
+* 2019-Present: 12 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
 * 2019-2020: Organiser - Cambridge Geophysics Seminar
 
 ## Seismological Tools
@@ -36,7 +37,7 @@ redirect_from:
 * Developer - Seismological Methods Utilizing Receiver Functions in Python3 (with PI Cottaar)
   * Available [here](https://doi.org/10.5281/zenodo.4337258).
 
-Download Full CV [here](/files/BOYCE_CV_010121.pdf).
+Download Full CV [here](/files/BOYCE_CV_130921.pdf).
 
 <!-- * Summer 2015: Research Assistant
   * Github University
