@@ -32,12 +32,14 @@ redirect_from:
 * 2019-2020: Organiser - Cambridge Geophysics Seminar
 
 ## Seismological Tools
-* Lead Developer - Absolute Arrival-time Recovery Method [(AARM - Boyce et. al., 2017)](https://alistairboyce11.github.io/portfolio/Boyce_2017_BSSA_paper/)
+* Lead Developer: Absolute Arrival-time Recovery Method [(AARM - Boyce et. al., 2017)](https://alistairboyce11.github.io/portfolio/Boyce_2017_BSSA_paper/)
   * Available [here](https://github.com/alistairboyce11/AARM).
-* Developer - Seismological Methods Utilizing Receiver Functions in Python3 (with PI Cottaar)
+* Developer: Seismological Methods Utilizing Receiver Functions in Python3 (with PI Cottaar)
   * Available [here](https://doi.org/10.5281/zenodo.4337258).
+* Developer: RJ-MCMC Transdimensional inversion of Surface wave dispersion curves with the reversible jump algorithm (with PI Bodin and D. Soergel)
+  * Available [here](https://github.com/alistairboyce11/RJ_MCMC).
 
-Download Full CV [here](/files/BOYCE_CV_130921.pdf).
+Download Full CV [here](/files/BOYCE_CV_240122.pdf).
 
 <!-- * Summer 2015: Research Assistant
   * Github University

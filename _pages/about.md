@@ -9,11 +9,11 @@ redirect_from:
 ---
 <br/><img src='/images/cali_sunset.jpeg'>
 
-Welcome! I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. I have recently (SEP. 2021) joined the Laboratoire de Géologie de Lyon : Terre, Planète, Environnement, Université Claude Bernard, Lyon1 to work with Thomas Bodin on the impact of parameterisation on seismic tomography using Bayesian methods. I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency. This will be the focus of my work in Lyon.
+Welcome! I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. In September 2021, I joined the Laboratoire de Géologie de Lyon : Terre, Planète, Environnement, Université Claude Bernard, Lyon1 to work with Thomas Bodin on the impact of parameterisation on seismic tomography using Bayesian methods. I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency. This will be the focus of my work in Lyon.
+
+To access ESSOAr pre-prints of my __AGU Fall Meeting 2021__ virtual posters, click [here](https://www.essoar.org/doi/abs/10.1002/essoar.10508941.2) for new insights into the seismic structure below the Turkana Depression and [here](https://www.essoar.org/doi/abs/10.1002/essoar.10509005.1) for new P-wavespeed images of the Canadian mantle.
 
 Previously I was a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. There I focused on improving our understanding of the mantle structure and dynamics beneath Africa using passive seismic imaging of both large-scale velocity structure and sharp discontinuities.
-
-For the supplementary slides to accompany my __AGU Fall Meeting 2020__ virtual presentation, click [here](/files/ABOYCE_AGU_2020_Backup.pdf).
 
 From my time in Cambridge, please check out the [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) Sedgwick museum of Earth Science exhibit website!
 
