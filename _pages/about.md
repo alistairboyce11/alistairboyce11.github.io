@@ -9,9 +9,7 @@ redirect_from:
 ---
 <br/><img src='/images/cali_sunset.jpeg'>
 
-Welcome! I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. In September 2021, I joined the Laboratoire de Géologie de Lyon : Terre, Planète, Environnement, Université Claude Bernard, Lyon1 to work with Thomas Bodin on the impact of parameterisation on seismic tomography using Bayesian methods. Please check out my recent poster [here](/files/SSA_Tomo22_Poster_AB_V3.pdf) from the Seismological Society of America conference __Seismic Tomography 2022: What Comes Next?__. Here we investigate the absence of negative radial anisotropy below cratons and resulting implications for their formation.
-
-To access ESSOAr pre-prints of my __AGU Fall Meeting 2021__ virtual posters, click [here](https://www.essoar.org/doi/abs/10.1002/essoar.10508941.2) for new insights into the seismic structure below the Turkana Depression and [here](https://www.essoar.org/doi/abs/10.1002/essoar.10509005.1) for new P-wavespeed images of the Canadian mantle. Resulting publications will be available soon after review...
+Welcome! I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. In September 2021, I joined the Laboratoire de Géologie de Lyon : Terre, Planète, Environnement, Université Claude Bernard, Lyon1 to work with Thomas Bodin on the impact of parameterisation on seismic tomography using Bayesian methods. Please check out my recent poster [here](/files/AGU22_Poster_AB_V2.pdf) from the __American Geophysical Union, Fall Meeting 2022__. Here we investigate the absence of negative radial anisotropy below cratons and resulting implications for their formation.
 
 Previously I was a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. There I focused on improving our understanding of the mantle structure and dynamics beneath Africa using passive seismic imaging of both large-scale velocity structure and sharp discontinuities.
 
