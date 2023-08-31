@@ -22,7 +22,7 @@ CAP22 (Boyce et al., 2023), is an absolute P-wavespeed tomographic model with fo
 
 **Citation:**
 
-Boyce, A., Liddell, M. V., Pugh, S., Brown, J., McMurchie, E., Parsons, A., Estève, C., Burdick, S., Darbyshire, F. A., Cottaar, S. Bastow, I. D., Schaeffer, A. J., Audet, P., Schutt, D. L., Aster, R. C. A new P-wave Tomographic Model (CAP22) for North America: Implications for the Subduction and Cratonic Metasomatic Modification History of Western Canada and Alaska (submitted to) JGR: Solid Earth.
+Boyce, A., Liddell, M. V., Pugh, S., Brown, J., McMurchie, E., Parsons, A., et al. (2023). A new P-wave tomographic model (CAP22) for North America: Implications for the subduction and cratonic metasomatic modification history of western Canada and Alaska. Journal of Geophysical Research: Solid Earth, 128, e2022JB025745. https://doi.org/10.1029/2022JB025745
 
 **Short description:**
 
