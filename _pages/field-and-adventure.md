@@ -72,7 +72,7 @@ My cousin Iso came out to Genoa and joined me on the next leg to Florence via Po
 
 <br/><img src='/images/florence.jpg'>
 
-On the last leg I rode through amazing hill-top Tuscan villages, along poplar-tree lined roads via Siena and down through the Lago di Vico caldera ending the in Rome where my partner Vic was waiting for the last photo!
+On the last leg I rode through amazing hill-top Tuscan villages, along poplar-tree lined roads via Siena and down through the Lago di Vico caldera ending the in Rome at the Colosseum!
 
 <br/><img src='/images/H2R_PT4.gif'>
 
