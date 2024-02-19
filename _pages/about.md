@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/><img src='/images/cali_sunset.jpeg'>
 
-Welcome! I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. In September 2021, I joined the LGL-TPE, Université Claude Bernard, Lyon1 as a postdoc to work on Bayesian surface wave inversion to better understand craton evolution. Check out our work published in __Geophysical Research Letters__ in February 2024 [here](/files/Boyce_2024_GRL_paper.pdf). I am now working on expanding global tomographic datasets using a novel time window selection method available on [Github](https://github.com/alistairboyce11/MTWSPy).
+Welcome! I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. In September 2021, I joined the LGL-TPE, Université Claude Bernard, Lyon1 as a postdoc to work on Bayesian surface wave inversion to better understand craton evolution. Check out our work published in __Geophysical Research Letters__ in February 2024 [here](/files/Boyce_et_al_GRL_2024.pdf). I am now working on expanding global tomographic datasets using a novel time window selection method available on [Github](https://github.com/alistairboyce11/MTWSPy).
 
 Previously I was a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. There I focused on improving our understanding of the mantle structure and dynamics beneath Africa using passive seismic imaging of both large-scale velocity structure and sharp discontinuities.
 
