@@ -6,3 +6,4 @@ touch -t 202102121212 Boyce_2021_G3_tomo_paper.md
 touch -t 202102171212 Boyce_2021_G3_RF_paper.md
 touch -t 202302271212 Boyce_2023_JGR_paper.md
 touch -t 202308031212 Boyce_2023_G3_paper.md
+touch -t 202402191212 Boyce_2024_GRL_paper.md
