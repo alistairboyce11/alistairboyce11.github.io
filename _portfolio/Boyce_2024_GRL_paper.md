@@ -20,4 +20,4 @@ For more information, see the links below:
 * Download the supplementary material [here](/files/ESUPP_Boyce_et_al_GRL_2024.pdf).
 * The data files, NVG database, software package and plotting codes are available [here](https://zenodo.org/records/8167649).
 
-<br/><img src='/images/2023GL106170-f01.jpg'>
+<br/><img src='/images/2023GL106170-f04.jpg'>
