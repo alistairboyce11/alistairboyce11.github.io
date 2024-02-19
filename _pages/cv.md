@@ -16,7 +16,7 @@ redirect_from:
 
 ## Experience
 
-* 2021-Present: CNRS Postdoc, LGL-TPE, Université Claude Bernard, Lyon1
+* 2021-Present: Postdoc, LGL-TPE, Université Claude Bernard, Lyon1
 * 2018-2021: Research Associate, University of Cambridge
 
 ## Funding
@@ -44,6 +44,8 @@ redirect_from:
   * Available [here](https://doi.org/10.5281/zenodo.4337258).
 * Developer: RJ-MCMC Transdimensional inversion of Surface wave dispersion curves with the reversible jump algorithm (with PI Bodin and D. Soergel)
   * Available [here](https://github.com/alistairboyce11/RJ_MCMC).
+* Developer: MTWSPy Python implementation of the Morphological Time Window Selection (MTWS) method for picking seismic arrival times.
+  * Available [here](https://github.com/alistairboyce11/MTWSPy).
 
 Download Full CV [here](/files/BOYCE_CV_060423.pdf).
 
